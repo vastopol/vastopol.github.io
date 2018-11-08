@@ -1,0 +1,65 @@
+current git repos
+
+which repositories are under which account
+some have to be on a windows machine for the software
+eg: atmel studio, dyalog apl, matlab, etc...
+
+----------------------------
+
+srich009:
+* intro
+* labs
+* rshell
+* project120 (windows)
+* cs141
+* trashql
+* EDU_Crawler
+* sem_priming
+* summer18 (windows)
+
+vastopol:
+* FP_Interpreter
+* configurize_me
+* resources (windows)
+* arry  (windows)
+* stackulator
+* lisp_mods
+* embedded (windows)
+* McLearning
+* xv7 (running in a vm)
+* soxbox
+* pythonic
+* script
+* uexp
+* Interpreter_Architectures
+* forth
+* Assembly
+* dev
+* LISP
+* basics
+* Microshaft (windows)
+* vastopol.github.io (windows)
+
+-------------------------
+branches on repos:
+
+master is the stable branch where final commits go.
+all the new work should happen in a branch which is merged in to master later.
+
+* FP_Interpreter
+    - demo_fp
+
+----------------------------
+
+windows folders:
+
+srich
+- hardware
+  - cs120
+  - cs122
+
+vastopol
+- arry
+- embeded
+- index
+- Microshaft
