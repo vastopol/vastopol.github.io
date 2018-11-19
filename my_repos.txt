@@ -4,62 +4,47 @@ which repositories are under which account
 some have to be on a windows machine for the software
 eg: atmel studio, dyalog apl, matlab, etc...
 
-----------------------------
+----------------------------------------
+----------------------------------------
+
+Trying to sort by profile, then by activity.
+Some of the repos are dormant or no longer worked on.
 
 srich009:
 * intro
 * labs
-* rshell
-* project120 (windows)
 * cs141
+* rshell
 * trashql
 * EDU_Crawler
 * sem_priming
+* project120 (windows)
 * summer18 (windows)
 
 vastopol:
 * FP_Interpreter
 * configurize_me
-* resources (windows)
-* arry  (windows)
+* Inspector_Gadget
+* configurize_me
 * stackulator
-* lisp_mods
-* embedded (windows)
+* re
+* asbestOS
+* basics
 * McLearning
-* xv7 (running in a vm)
 * soxbox
 * pythonic
 * script
 * uexp
+* LISP
+* lisp_mods
 * Interpreter_Architectures
 * forth
 * Assembly
 * dev
-* LISP
-* basics
+* arry  (windows)
+* embedded (windows)
 * Microshaft (windows)
+* resources (windows)
 * vastopol.github.io (windows)
 
--------------------------
-branches on repos:
 
-master is the stable branch where final commits go.
-all the new work should happen in a branch which is merged in to master later.
-
-* FP_Interpreter
-    - demo_fp
-
-----------------------------
-
-windows folders:
-
-srich
-- hardware
-  - cs120
-  - cs122
-
-vastopol
-- arry
-- embeded
-- index
-- Microshaft
