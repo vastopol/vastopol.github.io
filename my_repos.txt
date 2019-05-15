@@ -1,16 +1,29 @@
 current git repos
 
+not very updated...
+
 which repositories are under which account
 some have to be on a windows machine for the software
 eg: atmel studio, dyalog apl, matlab, etc...
 
-----------------------------------------
-----------------------------------------
-
 Trying to sort by profile, then by activity.
 Some of the repos are dormant or no longer worked on.
 
+----------------------------------------
+
+FIXME:
+
+soxbox -> update from python2 to python3
+Inspector_Gadget -> fix IG2.py slide window
+lisp_mods -> finish implementing interpreter body
+LISP -> finish tutorial exercises
+resources -> organize and label data
+asbestOS -> implement lab 1-4 exercises
+
+----------------------------------------
+
 srich009:
+
 * intro
 * labs
 * cs141
@@ -21,8 +34,11 @@ srich009:
 * project120 (windows)
 * summer18 (windows)
 
+----------------------------------------
+
 vastopol:
-* FP_Interpreter
+
+* FPL_Interpreter
 * configurize_me
 * Inspector_Gadget
 * configurize_me
@@ -44,7 +60,7 @@ vastopol:
 * arry  (windows)
 * embedded (windows)
 * Microshaft (windows)
-* resources (windows)
+* resources
 * vastopol.github.io (windows)
 
 
