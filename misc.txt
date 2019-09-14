@@ -1,0 +1,20 @@
+Profile links:
+
+https://leetcode.com/vastopol/
+https://www.codewars.com/users/vastopol
+https://www.hackthebox.eu/home/users/profile/127692
+
+----------------------------------------
+
+Repos (FIXME):
+
+disco -> finish all parts of converter
+hcc -> fix asm generator
+Inspector_Gadget -> fix IG2.py slide window
+lisp_mods -> finish implementing interpreter body
+LISP -> finish tutorial exercises
+resources -> organize and label data
+asbestOS -> implement lab 1-4 exercises
+
+----------------------------------------
+
