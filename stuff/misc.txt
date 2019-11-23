@@ -7,18 +7,52 @@ https://www.codewars.com/users/vastopol
 ctf
 https://crackmes.one/user/vastopol
 https://www.hackthebox.eu/home/users/profile/127692
+https://immersivelabs.online/profile/vastopol/progress
 
 ----------------------------------------
 
 Repos (FIXME):
 
-disco -> finish all parts of converter
-hcc -> fix asm generator
-Inspector_Gadget -> fix IG2.py slide window
-lisp_mods -> finish implementing interpreter body
-LISP -> finish tutorial exercises
-resources -> organize and label data
-asbestOS -> implement lab 1-4 exercises
+FPL_Interpreter
+    * finish rewrite part 1.3
+    * documentation improvements
+
+Jmips
+    * connect 4 parts together
+    * fix phase 3 to 100%
+    * optimizations
+
+hcc
+    * fix asm generator
+    * change grammar of compiler (more C like)
+    * add functionality
+    * rewrite to make more modular
+
+Inspector_Gadget
+    * fix IG2.py sliding window
+
+disco
+    * finish all parts of converter
+    * finish assembler
+    * combine disassembler and relocator
+    * rewrite to make more modular
+
+revCC
+    * improve function boundry detection
+    * add more opcodes
+    * rewrite to make more modular
+
+lisp_mods
+    * finish implementing interpreter body
+
+LISP
+    * finish tutorial exercises
+
+resources
+    * organize and label data
+
+asbestOS
+    * implement lab 1-4 exercises
 
 ----------------------------------------
 
